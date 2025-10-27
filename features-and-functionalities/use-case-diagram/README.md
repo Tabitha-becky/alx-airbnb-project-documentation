@@ -1,3 +1,4 @@
+
 # 🎭 Use Case Diagram — Airbnb Clone Backend
 
 ## Overview
@@ -27,3 +28,4 @@ It visualizes how users perform actions such as registering, logging in, booking
 
 ## 📘 Diagram Reference
 Below is the uploaded visual diagram (`use-case-diagram.png`) representing these interactions.
+<img width="522" height="701" alt="ERD" src="https://github.com/user-attachments/assets/68dfdc69-574a-450c-916d-cf1bda0b1e5f" />

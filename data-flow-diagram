@@ -1,1 +1,8 @@
+# Data Flow Diagram
+
+This directory contains the **Data Flow Diagram (DFD)** for the Airbnb Clone backend project.
+
+- File:
+
+- Description: This DFD illustrates how data flows between key entities such as Users, Properties, Bookings, and Payments within the backend system. It highlights inputs, processes, and outputs for major backend operations.
 
